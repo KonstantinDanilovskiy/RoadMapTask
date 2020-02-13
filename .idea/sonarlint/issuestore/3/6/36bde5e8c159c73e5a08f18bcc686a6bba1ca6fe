@@ -1,0 +1,12 @@
+
+Bsquid:S2629<"$Invoke method(s) only conditionally.(ş˜¿ì8ø§šİƒ.
+Bsquid:S2629&"$Invoke method(s) only conditionally.(ËÆ’ı8êÅ—Ûƒ.
+Bsquid:S2629P"$Invoke method(s) only conditionally.(ş˜¿ì8–Û°İƒ.
+Rsquid:S10660"/Merge this if statement with the enclosing one.(™ àıÿÿÿÿ8±ÍÿÛƒ.
+Bsquid:S2629Y"$Invoke method(s) only conditionally.(ş˜¿ì8Œ Ğİƒ.
+Bsquid:S2629#"$Invoke method(s) only conditionally.(Ï—Ùú8•ãŠßƒ.
+Gsquid:S2629G"$Invoke method(s) only conditionally.(Ô¨¿çùÿÿÿÿ8éÎŞƒ.
+Bsquid:S26299"$Invoke method(s) only conditionally.(ËÆ’ı8ëşÜƒ.
+¥squid:S1319d"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(•¸ç¨üÿÿÿÿ8 Œ¦ßƒ.
+Jsquid:S1602_",Remove useless curly braces around statement(›Î¡®8èŞƒ.
+Bsquid:S26295"$Invoke method(s) only conditionally.(§¦á8Î˜şŞƒ.
